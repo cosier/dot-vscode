@@ -1,0 +1,8 @@
+{
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.renderWhitespace": "boundary",
+    "editor.renderIndentGuides": false,
+    "workbench.statusBar.visible": true
+}
